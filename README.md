@@ -45,4 +45,4 @@ These features collectively create a complete social media platform with user au
 
 
 To run the project, use the following command: `python manage.py runserver`. 
-
+browser: localhost:8000.
